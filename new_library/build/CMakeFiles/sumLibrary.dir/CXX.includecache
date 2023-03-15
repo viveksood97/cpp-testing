@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/blade/learning/cpp-testing/new_library.cpp
+new_library.hpp
+/home/blade/learning/cpp-testing/new_library.hpp
+
+/home/blade/learning/cpp-testing/new_library.hpp
+
