@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/blade/learning/cpp-testing
+CMAKE_SOURCE_DIR = /home/blade/learning/cpp-testing/new_library
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/blade/learning/cpp-testing/build
+CMAKE_BINARY_DIR = /home/blade/learning/cpp-testing/new_library/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/sumLibrary.dir/depend.make
@@ -59,16 +59,16 @@ include CMakeFiles/sumLibrary.dir/flags.make
 
 CMakeFiles/sumLibrary.dir/new_library.cpp.o: CMakeFiles/sumLibrary.dir/flags.make
 CMakeFiles/sumLibrary.dir/new_library.cpp.o: ../new_library.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/blade/learning/cpp-testing/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/sumLibrary.dir/new_library.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sumLibrary.dir/new_library.cpp.o -c /home/blade/learning/cpp-testing/new_library.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/blade/learning/cpp-testing/new_library/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/sumLibrary.dir/new_library.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/sumLibrary.dir/new_library.cpp.o -c /home/blade/learning/cpp-testing/new_library/new_library.cpp
 
 CMakeFiles/sumLibrary.dir/new_library.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/sumLibrary.dir/new_library.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/blade/learning/cpp-testing/new_library.cpp > CMakeFiles/sumLibrary.dir/new_library.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/blade/learning/cpp-testing/new_library/new_library.cpp > CMakeFiles/sumLibrary.dir/new_library.cpp.i
 
 CMakeFiles/sumLibrary.dir/new_library.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/sumLibrary.dir/new_library.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/blade/learning/cpp-testing/new_library.cpp -o CMakeFiles/sumLibrary.dir/new_library.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/blade/learning/cpp-testing/new_library/new_library.cpp -o CMakeFiles/sumLibrary.dir/new_library.cpp.s
 
 # Object files for target sumLibrary
 sumLibrary_OBJECTS = \
@@ -80,7 +80,7 @@ sumLibrary_EXTERNAL_OBJECTS =
 libsumLibrary.a: CMakeFiles/sumLibrary.dir/new_library.cpp.o
 libsumLibrary.a: CMakeFiles/sumLibrary.dir/build.make
 libsumLibrary.a: CMakeFiles/sumLibrary.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/blade/learning/cpp-testing/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libsumLibrary.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/blade/learning/cpp-testing/new_library/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX static library libsumLibrary.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/sumLibrary.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/sumLibrary.dir/link.txt --verbose=$(VERBOSE)
 
@@ -94,6 +94,6 @@ CMakeFiles/sumLibrary.dir/clean:
 .PHONY : CMakeFiles/sumLibrary.dir/clean
 
 CMakeFiles/sumLibrary.dir/depend:
-	cd /home/blade/learning/cpp-testing/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/blade/learning/cpp-testing /home/blade/learning/cpp-testing /home/blade/learning/cpp-testing/build /home/blade/learning/cpp-testing/build /home/blade/learning/cpp-testing/build/CMakeFiles/sumLibrary.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/blade/learning/cpp-testing/new_library/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/blade/learning/cpp-testing/new_library /home/blade/learning/cpp-testing/new_library /home/blade/learning/cpp-testing/new_library/build /home/blade/learning/cpp-testing/new_library/build /home/blade/learning/cpp-testing/new_library/build/CMakeFiles/sumLibrary.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/sumLibrary.dir/depend
 

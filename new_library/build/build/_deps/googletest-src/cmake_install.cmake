@@ -1,4 +1,4 @@
-# Install script for directory: /home/blade/learning/cpp-testing/build/_deps/googletest-src
+# Install script for directory: /home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/blade/learning/cpp-testing/build/build/_deps/googletest-src/googlemock/cmake_install.cmake")
+  include("/home/blade/learning/cpp-testing/new_library/build/build/_deps/googletest-src/googlemock/cmake_install.cmake")
 
 endif()
 

@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/blade/learning/cpp-testing/build/_deps/googletest-src/googlemock/src/gmock_main.cc
+/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googlemock/src/gmock_main.cc
 iostream
 -
 gmock/gmock.h
-/home/blade/learning/cpp-testing/build/_deps/googletest-src/googlemock/src/gmock/gmock.h
+/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googlemock/src/gmock/gmock.h
 gtest/gtest.h
-/home/blade/learning/cpp-testing/build/_deps/googletest-src/googlemock/src/gtest/gtest.h
+/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googlemock/src/gtest/gtest.h
 tchar.h
 -
 

@@ -1,4 +1,4 @@
-# Install script for directory: /home/blade/learning/cpp-testing
+# Install script for directory: /home/blade/learning/cpp-testing/new_library
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -39,7 +39,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/blade/learning/cpp-testing/build/build/_deps/googletest-src/cmake_install.cmake")
+  include("/home/blade/learning/cpp-testing/new_library/build/build/_deps/googletest-src/cmake_install.cmake")
 
 endif()
 
@@ -51,5 +51,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/blade/learning/cpp-testing/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/blade/learning/cpp-testing/new_library/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

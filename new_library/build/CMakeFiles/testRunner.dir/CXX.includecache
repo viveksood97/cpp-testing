@@ -6,13 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/blade/learning/cpp-testing/new_library.hpp
+/home/blade/learning/cpp-testing/new_library/new_library.hpp
 
-/home/blade/learning/cpp-testing/test.cpp
+/home/blade/learning/cpp-testing/new_library/test.cpp
 gtest/gtest.h
 -
 new_library.hpp
-/home/blade/learning/cpp-testing/new_library.hpp
+/home/blade/learning/cpp-testing/new_library/new_library.hpp
 
 _deps/googletest-src/googletest/include/gtest/gtest-assertion-result.h
 memory

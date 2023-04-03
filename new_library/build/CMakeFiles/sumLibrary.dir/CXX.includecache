@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/blade/learning/cpp-testing/new_library.cpp
+/home/blade/learning/cpp-testing/new_library/new_library.cpp
 new_library.hpp
-/home/blade/learning/cpp-testing/new_library.hpp
+/home/blade/learning/cpp-testing/new_library/new_library.hpp
 
-/home/blade/learning/cpp-testing/new_library.hpp
+/home/blade/learning/cpp-testing/new_library/new_library.hpp
 

@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/home/blade/learning/cpp-testing/build/_deps/googletest-src/googlemock/src/gmock-all.cc
+/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googlemock/src/gmock-all.cc
 gmock/gmock.h
-/home/blade/learning/cpp-testing/build/_deps/googletest-src/googlemock/src/gmock/gmock.h
+/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googlemock/src/gmock/gmock.h
 src/gmock-cardinalities.cc
-/home/blade/learning/cpp-testing/build/_deps/googletest-src/googlemock/src/src/gmock-cardinalities.cc
+/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googlemock/src/src/gmock-cardinalities.cc
 src/gmock-internal-utils.cc
-/home/blade/learning/cpp-testing/build/_deps/googletest-src/googlemock/src/src/gmock-internal-utils.cc
+/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googlemock/src/src/gmock-internal-utils.cc
 src/gmock-matchers.cc
-/home/blade/learning/cpp-testing/build/_deps/googletest-src/googlemock/src/src/gmock-matchers.cc
+/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googlemock/src/src/gmock-matchers.cc
 src/gmock-spec-builders.cc
-/home/blade/learning/cpp-testing/build/_deps/googletest-src/googlemock/src/src/gmock-spec-builders.cc
+/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googlemock/src/src/gmock-spec-builders.cc
 src/gmock.cc
-/home/blade/learning/cpp-testing/build/_deps/googletest-src/googlemock/src/src/gmock.cc
+/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googlemock/src/src/gmock.cc
 
 _deps/googletest-src/googlemock/include/gmock/gmock-actions.h
 errno.h

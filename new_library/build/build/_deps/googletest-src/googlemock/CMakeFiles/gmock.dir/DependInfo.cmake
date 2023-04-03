@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/blade/learning/cpp-testing/build/_deps/googletest-src/googlemock/src/gmock-all.cc" "/home/blade/learning/cpp-testing/build/build/_deps/googletest-src/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+  "/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googlemock/src/gmock-all.cc" "/home/blade/learning/cpp-testing/new_library/build/build/_deps/googletest-src/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
@@ -18,7 +18,7 @@ set(CMAKE_CXX_TARGET_INCLUDE_PATH
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/home/blade/learning/cpp-testing/build/build/_deps/googletest-src/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
+  "/home/blade/learning/cpp-testing/new_library/build/build/_deps/googletest-src/googletest/CMakeFiles/gtest.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

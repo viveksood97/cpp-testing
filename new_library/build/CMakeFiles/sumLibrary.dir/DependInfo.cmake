@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/blade/learning/cpp-testing/new_library.cpp" "/home/blade/learning/cpp-testing/build/CMakeFiles/sumLibrary.dir/new_library.cpp.o"
+  "/home/blade/learning/cpp-testing/new_library/new_library.cpp" "/home/blade/learning/cpp-testing/new_library/build/CMakeFiles/sumLibrary.dir/new_library.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

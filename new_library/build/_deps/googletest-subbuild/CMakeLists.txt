@@ -12,8 +12,8 @@ project(googletest-populate NONE)
 include(ExternalProject)
 ExternalProject_Add(googletest-populate
                      "UPDATE_DISCONNECTED" "False" "GIT_REPOSITORY" "https://github.com/google/googletest" "GIT_TAG" "v1.13.0"
-                    SOURCE_DIR          "/home/blade/learning/cpp-testing/build/_deps/googletest-src"
-                    BINARY_DIR          "/home/blade/learning/cpp-testing/build/_deps/googletest-build"
+                    SOURCE_DIR          "/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src"
+                    BINARY_DIR          "/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

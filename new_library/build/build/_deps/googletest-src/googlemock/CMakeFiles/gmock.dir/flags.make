@@ -6,5 +6,5 @@ CXX_FLAGS =   -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=1 -fex
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/blade/learning/cpp-testing/build/_deps/googletest-src/googlemock/include -I/home/blade/learning/cpp-testing/build/_deps/googletest-src/googlemock -isystem /home/blade/learning/cpp-testing/build/_deps/googletest-src/googletest/include -isystem /home/blade/learning/cpp-testing/build/_deps/googletest-src/googletest 
+CXX_INCLUDES = -I/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googlemock/include -I/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googlemock -isystem /home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googletest/include -isystem /home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googletest 
 

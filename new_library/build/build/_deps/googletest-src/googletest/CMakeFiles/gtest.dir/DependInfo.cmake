@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/blade/learning/cpp-testing/build/_deps/googletest-src/googletest/src/gtest-all.cc" "/home/blade/learning/cpp-testing/build/build/_deps/googletest-src/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+  "/home/blade/learning/cpp-testing/new_library/build/_deps/googletest-src/googletest/src/gtest-all.cc" "/home/blade/learning/cpp-testing/new_library/build/build/_deps/googletest-src/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
